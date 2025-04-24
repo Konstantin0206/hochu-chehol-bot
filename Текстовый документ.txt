@@ -1,0 +1,2 @@
+cd C:\Users\Пользователь\OneDrive\Desktop\БОТ
+python HCbot.py
